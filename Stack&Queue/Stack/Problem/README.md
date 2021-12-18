@@ -24,7 +24,7 @@
 
 ## Chuyển một số hệ thập phân sang hệ cơ số khác
 
-### Hệ nhị phân (hệ 10)
+### Hệ nhị phân (hệ 2)
 
 Dạng bit: 0 và 1
 
