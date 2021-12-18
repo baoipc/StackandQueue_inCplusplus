@@ -16,7 +16,7 @@
 
 - Định nghĩa: Là cấu trúc dữ liệu được hiểu là hàng đợi
 
-- Quy tắc hoạt động: Last In Last Out
+- Quy tắc hoạt động: First In First Out
 
 - Tổ chức:
 
