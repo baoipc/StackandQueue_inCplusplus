@@ -36,7 +36,7 @@ Chữ cái: A B C D E F (10 -> 15)
 
 ### Hệ bát phân (hệ 8)
 
-Giá trị: 0 1 2 3 4 5 6 7 8
+Giá trị: 0 1 2 3 4 5 6 7
 
 ## Tính toán cho biểu thức số học
 
